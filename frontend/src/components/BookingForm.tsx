@@ -153,7 +153,7 @@ const BookingForm = () => {
               Choose a time window
             </option>
             <option value="8:00am - 10:00am">8:00am - 10:00am</option>
-            <option value="10:00am - 12:00pm">10:00pm - 12:00pm</option>
+            <option value="10:00am - 12:00pm">10:00am - 12:00pm</option>
             <option value="12:00pm - 2:00pm">12:00pm - 2:00pm</option>
             <option value="2:00pm - 4:00pm">2:00pm - 4:00pm</option>
           </select>
