@@ -53,7 +53,7 @@ const BookingForm = () => {
     <>
       <form
         onSubmit={handleSubmit}
-        className="flex flex-col bg-slate-900 border-black border-2 rounded-md p-10 gap-5 w-[50%] m-auto justify-center items-center"
+        className="flex flex-col bg-slate-900 border-black border-2 rounded-md p-10 gap-5 w-[80%] m-auto justify-center items-center md:w-[50%]"
       >
         <h2>Book With Bayou Detail Co.</h2>
         <div className="flex flex-col w-[70%]">
